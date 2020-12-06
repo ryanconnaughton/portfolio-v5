@@ -1,4 +1,2 @@
 # ryanconnaughton
-Unicorn 🦄 
--> London based UX/product designer, strategist and researcher - currently learning how2code)
--> www.ryanconnaughton.com
+Ryan Connaughton's personal portfolio 2018 (UX/Product Design & Research)
